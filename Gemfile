@@ -9,11 +9,12 @@ gem 'heroku'
 
 gem 'carrierwave'
 group :development do
-      gem 'sqlite3'
+    gem 'sqlite3'
 end
+
 group :production do
-      gem 'pg'
-      gem 'rails_12factor'
+    gem 'pg'
+    gem 'rails_12factor'
 end
 
 # Gems used only for assets and not required
