@@ -8,6 +8,7 @@ gem 'rails', '3.2.13'
 gem 'heroku'
 
 gem 'carrierwave'
+gem 'mini_magick', '3.8.0'
 group :development do
     gem 'sqlite3'
 end
