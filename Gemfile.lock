@@ -53,6 +53,7 @@ GEM
     erubis (2.7.0)
     excon (0.39.5)
     execjs (2.2.1)
+    gravtastic (3.2.6)
     heroku (3.10.3)
       heroku-api (~> 0.3.19)
       launchy (>= 0.3.2)
@@ -147,6 +148,7 @@ DEPENDENCIES
   carrierwave
   coffee-rails (~> 3.2.1)
   devise
+  gravtastic
   heroku
   jquery-rails
   mini_magick (= 3.8.0)
